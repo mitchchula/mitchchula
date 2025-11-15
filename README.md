@@ -20,7 +20,7 @@
 |---------|------|------|
 | **SoftBiz Aesthetic Template** | Small Business | [View Demo](https://mitchchula.github.io/small-business-template-aesthetic/) |
 
-> Want a custom website? → **Email me:** mitchimitchell9@gmail.com
+> Want a custom website? → **Email me:** softbizstudio@gmail.com
 
 ---
 
