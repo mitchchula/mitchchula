@@ -8,7 +8,10 @@
 <br>
 
 <div align="center">
-  <img src="assets/logo.png" alt="SoftBiz Logo" width="90">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mitchchula/mitchchula/main/logo.png" width="140" alt="SoftBiz Logo">
+</p>
+
   <p><strong>SoftBiz Studio — Aesthetic Web Templates</strong></p>
 </div>
 
@@ -69,3 +72,4 @@ Feel free to message me for quotes, custom designs, or template edits.
 ---
 
 <p align="center">✨ Thank you for visiting my profile ✨</p>
+
